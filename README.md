@@ -32,7 +32,6 @@ The dashboard provides actionable insights into campaign performance, user engag
 ![Facebook](dashboard_facebook.png)
 
 
-
 ---
 
 ## 📊 Instagram Dashboard
