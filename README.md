@@ -29,7 +29,7 @@ The dashboard provides actionable insights into campaign performance, user engag
 ---
 
 ## 📈 Facebook Dashboard
-![Facebook](dashboard_facebook .png)
+![Facebook](dashboard_facebook.png)
 
 
 ---
