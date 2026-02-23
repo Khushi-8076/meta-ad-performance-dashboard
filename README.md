@@ -30,13 +30,13 @@ The dashboard provides actionable insights into campaign performance, user engag
 
 ## 📈 Facebook Dashboard
 
-![Facebook](facebook_dashboard.png)
+![Facebook](dashboard_facebook.png)
 
 ---
 
 ## 📊 Instagram Dashboard
 
-![Instagram](instagram_dashboard.png)
+![Instagram](dashboard_instagram.png)
 
 ---
 
